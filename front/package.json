@@ -1,0 +1,23 @@
+{
+  "name": "react-nodebird-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yelloo98/react-first.git"
+  },
+  "author": "Sungjin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yelloo98/react-first/issues"
+  },
+  "homepage": "https://github.com/yelloo98/react-first#readme",
+  "dependencies": {
+    "next": "^9.5.5"
+  }
+}
